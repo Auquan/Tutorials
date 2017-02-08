@@ -1,3 +1,11 @@
+#Python files
+.ipynb_checkpoints
+*.py
+*.pyc
+
+#Auquan Data
+nasdaq
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
