@@ -25,6 +25,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+nasdaq/
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -70,6 +72,8 @@ target/
 
 # IPython Notebook
 .ipynb_checkpoints
+*.py
+*.pyc
 
 # pyenv
 .python-version
