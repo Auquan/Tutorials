@@ -12,6 +12,8 @@ For instructions on how to install the toolbox, visit [here](https://github.com/
 3. [How to measure momentum] (https://github.com/Auquan/Tutorials/blob/master/Measuring%20Momentum.ipynb) 
 4. [Model Selection Pitfalls] (https://github.com/Auquan/Tutorials/blob/master/Trading%20Strategy%20Model%20Selection%20Pitfalls.ipynb)
 5. [Avoid Overfitting] (https://github.com/Auquan/Tutorials/blob/master/Overfitting.ipynb)
+6. [Pairs Trading] (https://github.com/Auquan/Tutorials/blob/master/Pairs%20Trading.ipynb)
+7. [Long-Short Strategies using Ranking] (https://github.com/Auquan/Tutorials/blob/master/Long-Short%20Strategies%20using%20Ranking.ipynb)
 
 ###Math
 1. [Random Variables] (https://github.com/Auquan/Tutorials/blob/master/Random%20Variables.ipynb)
