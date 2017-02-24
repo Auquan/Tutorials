@@ -16,4 +16,10 @@ For instructions on how to install the toolbox, visit [here](https://github.com/
 ###Math
 1. [Random Variables] (https://github.com/Auquan/Tutorials/blob/master/Random%20Variables.ipynb)
 2. [Expected Value and Standard Deviation](https://github.com/Auquan/Tutorials/blob/master/Expected%20Value%20and%20Standard%20Deviation.ipynb)
+3. Covariance, Correlation and Confidence Intervals
+
+###Time Series Analysis
+1. [ Part 1 - Stationarity, Auto Correlation, White Noise and Random Walks ] (https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%201.ipynb)
+2. Part 2 - AR, MA, ARMA and ARIMA models
+3. Part 3 - ARCH and GARCH models
 
