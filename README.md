@@ -22,6 +22,7 @@ For instructions on how to install the toolbox, visit [here](https://github.com/
 
 ###Time Series Analysis
 1. [ Part 1 - Stationarity, Auto Correlation, White Noise and Random Walks ] (https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%201.ipynb)
-2. Part 2 - AR, MA, ARMA and ARIMA models
-3. Part 3 - ARCH and GARCH models
+2. [ Part 2 - AR and MA models ](https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%202.ipynb)
+3. [ Part 3 - ARMA and ARIMA models ](https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%203.ipynb)
+4. [ Part 4 - ARCH and GARCH models ](https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%204.ipynb)
 
