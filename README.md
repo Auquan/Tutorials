@@ -19,6 +19,7 @@ For instructions on how to install the toolbox, visit [here](https://github.com/
 1. [Random Variables] (https://github.com/Auquan/Tutorials/blob/master/Random%20Variables.ipynb)
 2. [Expected Value and Standard Deviation](https://github.com/Auquan/Tutorials/blob/master/Expected%20Value%20and%20Standard%20Deviation.ipynb)
 3. [Covariance, Correlation and Confidence Intervals](https://github.com/Auquan/Tutorials/blob/master/Covariance%2C%20Correlation%20and%20Confidence%20Intervals.ipynb)
+4. [Stationarity, Integration and CoIntegration](https://github.com/Auquan/Tutorials/blob/master/Integration%2C%20Cointegration%2C%20and%20Stationarity.ipynb)
 
 ###Time Series Analysis
 1. [ Part 1 - Stationarity, Auto Correlation, White Noise and Random Walks ] (https://github.com/Auquan/Tutorials/blob/master/Time%20Series%20Analysis%20-%201.ipynb)
